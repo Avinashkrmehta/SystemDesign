@@ -1,4 +1,4 @@
-# System Design: Zero to Hero Syllabus (C++)
+# System Design: Zero to Hero Syllabus (C++ & Ruby)
 
 > A comprehensive syllabus covering every topic in Low-Level Design (LLD) and High-Level Design (HLD) from absolute beginner to interview-ready.
 
